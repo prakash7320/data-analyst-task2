@@ -46,8 +46,5 @@ Breakdown of minimum sales across:
 - **Power BI  / Excel** 
 - GitHub for version control
 
-## 📬 Contact
-For queries or improvements, feel free to reach out.
-
 next powerbi project i will imporove my dashbordcreation
 
